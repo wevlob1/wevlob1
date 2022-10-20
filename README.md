@@ -1,4 +1,4 @@
-<h1>👋Olá, eu sou weverton lobato, desenvolvedor de Software e Web Designer</h1>
+<h1>👨‍💻Olá, eu sou weverton lobato,desenvolvedor de Software e Web Designer</h1>
 <ul>
   <li>Estudante de Ciência de Dados</li>
   <li>Desenvolvedor Python</li>
