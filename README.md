@@ -20,12 +20,12 @@
   <img  height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
 </div>
 <h1>⚡💡Certificados</h1>
-<div style="display: inline-block; align-items: center"><br>
-  <img  height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img  height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img  height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img  height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img  height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
+<div>
+  <div>
+    <h3>JavaScript/<h3>
+    <img  height="300" align:"center" src="https://user-images.githubusercontent.com/116172352/197057231-280a25ba-c13b-4693-a21a-d9c6b635cc96.jpg" />
+    <p>verifique a autenticidade em:<a href="https://freecodecamp.org/certification/fcc862de580-fc39-4052-8f28-2a9676bca8e2/javascript-algorithms-and-data-structures" target="_blank">https://freecodecamp.org/certification</a></p>
+  </div>
 </div>  
 <h1>contatos</h1>
 <div> 
