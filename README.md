@@ -6,10 +6,10 @@
 </ul>
 
 
-<div>
+<div style="display: inline-block; align-items: center">
   <a href="https://github.com/wevlob1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wevlob1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevlob1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img  width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wevlob1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img  width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevlob1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <h1>⚡💡Linguagens e Frameworks</h1>
 <div style="display: inline-block; align-items: center"><br>
