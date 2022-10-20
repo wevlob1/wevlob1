@@ -1,10 +1,14 @@
-<h1>👨‍💻Olá, eu sou weverton lobato,desenvolvedor de Software e Web Designer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=34F700&width=435&lines=Weverton+Lobato;back-end+Developer)](https://git.io/typing-svg)
+</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F700&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBHello%2Cmy+name's+Weverton+Lobato;I'm+a+Back-End+Developer+;and+Software+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBOl%C3%A1%2C+eu+sou+weverton+lobato;desenvolvedor+de+Software+Back-End;e+Web+Designer)](https://git.io/typing-svg)
+
+<h1>🪐🚀Sobre Min</h1>
 <ul>
+  <li>21 anos | 21 years'old</li>
   <li>Estudante de Ciência de Dados</li>
   <li>Desenvolvedor Python</li>
   <li>Membro do Projeto Caleon-technology</li>
 </ul>
-
 
 <div style="display: inline-block; align-items: center">
   <a href="https://github.com/wevlob1">
@@ -33,5 +37,9 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+
+<h3 align="center">🎵 Listening to: 🎵</h3>
+<p align="center">  
+   <img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="400"/>
+<p/>
   
