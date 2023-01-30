@@ -5,10 +5,8 @@
 
 <h1 align="center">🪐🚀Sobre Min | About me</h1>
 <ul>
-  <li>21 anos | 21 years'old</li>
-  <li>Estudante de Ciência de Dados | Data Science Student</li>
-  <li>Desenvolvedor Python | Python Developer</li>
-  <li>Membro do Projeto Caleon-technology | Member of the caleon technology project</li>
+  <li>22 anos | 22 years'old</li>
+  <li>Desenvolvedor Front End</li>
 </ul>
 
 <div style="display: inline-block;" align="center">
