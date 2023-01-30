@@ -1,7 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=34F700&width=200&lines=Weverton+Lobato;back-end+Developer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=34F700&width=200&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBHello%2Cmy+name's+Weverton+Lobato;I'm+a+Back-End+Developer+;and+Software+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBOl%C3%A1%2C+eu+sou+weverton+lobato;desenvolvedor+de+Software+Back-End;e+Web+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Weverton+Lobato;+Desenvolvedor+Front+End)](https://git.io/typing-svg)
 
 <h1 align="center">🪐🚀Sobre Min | About me</h1>
 <ul>
