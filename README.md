@@ -1,10 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Weverton+Lobato;+Desenvolvedor+Front+End)](https://git.io/typing-svg)
 
-<h1 align="center">🪐🚀Sobre Min | About me</h1>
+<h1 align="center">Sobre Min</h1>
 <ul>
-  <li>22 anos | 22 years'old</li>
-  <li>Desenvolvedor Front End</li>
+  <li>Programador Full Stack</li>
+  <li>Graduando em Análise e Desenvolvimento de Sistemas - UniBF</li>
 </ul>
 
 <div style="display: inline-block;" align="center">
