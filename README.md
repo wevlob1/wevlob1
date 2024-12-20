@@ -1,9 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Weverton+Lobato;+Desenvolvedor+Front+End)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&width=435&lines=Weverton+Lobato+-+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 <h1 align="center">Sobre Min</h1>
 <ul>
-  <li>Programador Full Stack</li>
+  <li>Olá seja bem vindo ao meu portifólio, aqui</li>
   <li>Graduando em Análise e Desenvolvimento de Sistemas - UniBF</li>
 </ul>
 
